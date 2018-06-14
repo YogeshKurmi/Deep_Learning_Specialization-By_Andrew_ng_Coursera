@@ -1,10 +1,10 @@
 # Deep Learning Specialization
 
-This repo contains my solution to the 5-course Coursera Deep Learning Specialization created by prof. Andrew Ng and [deeplearning.ai](https://www.deeplearning.ai) incorporation in 2017-2018 which can be found [here](https://www.coursera.org/specializations/deep-learning). 
+This repo contains my excercise work to the 5-course Coursera Deep Learning Specialization created by prof. Andrew Ng and [deeplearning.ai](https://www.deeplearning.ai) incorporation in 2017-2018 which can be found [here](https://www.coursera.org/specializations/deep-learning). 
 
 In this repo you can find:
 
-- Slides of the whole specialization (except the fifth course).
+- Slides of the whole specialization.
 - Readings and papers provided inside the course.
 - The original assignments without solution (deeplearning.ai.zip).
 - My solution to the assignment.
@@ -43,4 +43,4 @@ You can find the videos of this specialization on YouTube:
 * [Course 02](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 * [Course 03](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 * [Course 04](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-* Course 05 (Not Ready Yet).
+* [Course 05]
