@@ -20,7 +20,7 @@ If you want to break into AI, this Specialization will help you do so. Deep Lear
 
 You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice. AI is transforming multiple industries. 
 
-After finishing this specialization, you will likely find creative ways to apply it to your work. We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
+After finishing this specialization, you will likely find creative ways to apply it to your work. will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 
 
@@ -43,4 +43,4 @@ You can find the videos of this specialization on YouTube:
 * [Course 02](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 * [Course 03](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 * [Course 04](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-* [Course 05]
+* [Course 05](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
